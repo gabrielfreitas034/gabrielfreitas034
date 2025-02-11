@@ -1,4 +1,4 @@
-## Olá, Eu sou o Gabriel Freitas, estudante de sistemas de informação!
+## Olá, Eu sou o Gabriel Freitas, bacharel em sistemas de informação!
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielfreitas034&show_icons=true&theme=radical)
 <div style="display: inline_block"><br>
